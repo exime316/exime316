@@ -5,6 +5,7 @@
 - 📫 How to reach me ... available soon
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...starting from 0
+- This is my first edit...
 
 <!---
 exime316/exime316 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
